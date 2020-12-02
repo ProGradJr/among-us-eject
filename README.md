@@ -1,1 +1,1 @@
-# among-us-eject
+# Among Us
